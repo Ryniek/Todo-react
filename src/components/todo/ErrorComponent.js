@@ -1,7 +1,7 @@
 import React from 'react';
 
 function ErrorComponent() {
-    return <div>Error, I don't know what to do.</div>
+    return <div>Błąd, coś poszło nie tak.</div>
 }
 
 export default ErrorComponent;
